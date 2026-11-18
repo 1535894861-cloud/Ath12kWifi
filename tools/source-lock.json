@@ -55,7 +55,7 @@
   },
   "freebsd": {
     "url": "https://github.com/freebsd/freebsd-src.git",
-    "ref": "releng/15.1",
+    "ref": "release/15.1.0-p6",
     "commit": "95719d8a895bf8170851e9844d9b4092b1d2b6fe",
     "paths": [
       "/sys/compat/linuxkpi/",
